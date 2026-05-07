@@ -12,3 +12,4 @@ pyyaml==6.0.1
 python-dotenv==1.0.0
 dvc[s3]
 boto3
+setuptools<81
